@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UEP\\HW07\\hw07\\Source\\hw07\\hw07.Build.cs",
+		"C:\\UEP\\HW07\\hw07\\Source\\hw07.Target.cs",
+		"C:\\UEP\\HW07\\hw07\\Source\\hw07Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
